@@ -6,3 +6,9 @@
 	padding: 100px 40px;
 	font-size: 5em;
 }
+
+.wrapper-header {
+	background-color: #20315f;
+	margin-top: 3em;
+	color: #fff;
+}
